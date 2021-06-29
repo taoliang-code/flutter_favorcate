@@ -1,0 +1,20 @@
+{
+  "favorcate": "美食广场",
+  "home": "首页",
+  "favorite": "收藏",
+  "myFavorite": "我的收藏",
+  "justDoIt": "开始动手",
+  "dine": "进餐",
+  "filter": "过滤",
+  "showChoice": "展示你的选择",
+  "glutenFree": "无谷蛋白",
+  "showGlutenFree": "展示无谷蛋白食物",
+  "vegan": "严格素食主义",
+  "showVegan": "展示严格素食主义相关食物",
+  "vegetarian": "素食主义",
+  "showVegetarian": "展示素食主义相关食物",
+  "lactoseFree": "不含乳糖",
+  "showLactoseFree": "展示不含乳糖食物",
+  "minutes": "分钟",
+  "collected": "已收藏"
+}
